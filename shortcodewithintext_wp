@@ -1,0 +1,3 @@
+add_filter('widget_text', 'do_shortcode');
+
+//add to functions.php//
